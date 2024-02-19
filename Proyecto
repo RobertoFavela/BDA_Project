@@ -12,13 +12,13 @@ excepto el saldo disponible. Las cuentas podrán cancelarse en cualquier momento
 así lo desea.
 Es muy importante que en el sistema se puedan realizar dos tipos de transacciones y a 
 continuación se explican:
-1. Un cliente puede realizar una “transferencia” que consiste en retirar dinero desde 
-alguna de sus cuentas y depositar a otra cuenta, que puede ser una cuenta de otro 
-cliente u otra cuenta que le pertenezca a él. 
-2. Una persona que no sea cliente del banco podría realizar un “retiro sin cuenta” a 
-nombre de un cliente. La persona podrá retirar el monto solicitado en el sistema del 
-banco utilizando un folio de operación y una contraseña generada por el sistema al 
-momento de solicitarla. El folio es un consecutivo generado por el sistema y la 
-contraseña debe de ser un número aleatorio de 8 dígitos.
+  1. Un cliente puede realizar una “transferencia” que consiste en retirar dinero desde 
+     alguna de sus cuentas y depositar a otra cuenta, que puede ser una cuenta de otro 
+     cliente u otra cuenta que le pertenezca a él. 
+  2. Una persona que no sea cliente del banco podría realizar un “retiro sin cuenta” a 
+     nombre de un cliente. La persona podrá retirar el monto solicitado en el sistema del 
+     banco utilizando un folio de operación y una contraseña generada por el sistema al 
+     momento de solicitarla. El folio es un consecutivo generado por el sistema y la 
+     contraseña debe de ser un número aleatorio de 8 dígitos.
 Finalmente un cliente debe poder consultar su historial de operaciones con posibilidad de 
 buscar por tipo de operación y rango de fechas mediante un selector de fechas.
